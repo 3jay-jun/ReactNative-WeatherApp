@@ -1,0 +1,1707 @@
+{
+  "lat": 37.3917,
+  "lon": 126.9292,
+  "timezone": "Asia/Seoul",
+  "timezone_offset": 32400,
+  "current": {
+    "dt": 1736821378,
+    "sunrise": 1736808348,
+    "sunset": 1736843774,
+    "temp": 3.57,
+    "feels_like": 0.72,
+    "pressure": 1025,
+    "humidity": 87,
+    "dew_point": 1.61,
+    "uvi": 1.44,
+    "clouds": 75,
+    "visibility": 2800,
+    "wind_speed": 3.09,
+    "wind_deg": 190,
+    "weather": [
+      {
+        "id": 701,
+        "main": "Mist",
+        "description": "박무",
+        "icon": "50d"
+      },
+      {
+        "id": 741,
+        "main": "Fog",
+        "description": "안개",
+        "icon": "50d"
+      }
+    ]
+  },
+  "minutely": [
+    {
+      "dt": 1736821380,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736821440,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736821500,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736821560,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736821620,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736821680,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736821740,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736821800,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736821860,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736821920,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736821980,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822040,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822100,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822160,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822220,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822280,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822340,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822400,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822460,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822520,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822580,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822640,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822700,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822760,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822820,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822880,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736822940,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823000,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823060,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823120,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823180,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823240,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823300,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823360,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823420,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823480,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823540,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823600,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823660,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823720,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823780,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823840,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823900,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736823960,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824020,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824080,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824140,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824200,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824260,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824320,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824380,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824440,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824500,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824560,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824620,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824680,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824740,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824800,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824860,
+      "precipitation": 0
+    },
+    {
+      "dt": 1736824920,
+      "precipitation": 0
+    }
+  ],
+  "hourly": [
+    {
+      "dt": 1736820000,
+      "temp": 3.57,
+      "feels_like": 3.57,
+      "pressure": 1025,
+      "humidity": 87,
+      "dew_point": 1.61,
+      "uvi": 1.44,
+      "clouds": 75,
+      "visibility": 10000,
+      "wind_speed": 0.8,
+      "wind_deg": 336,
+      "wind_gust": 1.53,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "튼구름",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736823600,
+      "temp": 3.38,
+      "feels_like": 2.07,
+      "pressure": 1025,
+      "humidity": 85,
+      "dew_point": 1.1,
+      "uvi": 1.83,
+      "clouds": 63,
+      "visibility": 10000,
+      "wind_speed": 1.52,
+      "wind_deg": 316,
+      "wind_gust": 3.83,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "튼구름",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736827200,
+      "temp": 3.34,
+      "feels_like": 1.39,
+      "pressure": 1025,
+      "humidity": 81,
+      "dew_point": 0.4,
+      "uvi": 1.9,
+      "clouds": 51,
+      "visibility": 10000,
+      "wind_speed": 2.04,
+      "wind_deg": 304,
+      "wind_gust": 4.65,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "튼구름",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736830800,
+      "temp": 3.3,
+      "feels_like": 0.71,
+      "pressure": 1024,
+      "humidity": 76,
+      "dew_point": -0.46,
+      "uvi": 1.52,
+      "clouds": 40,
+      "visibility": 10000,
+      "wind_speed": 2.7,
+      "wind_deg": 295,
+      "wind_gust": 5.73,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "구름조금",
+          "icon": "03d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736834400,
+      "temp": 3.23,
+      "feels_like": 0.23,
+      "pressure": 1024,
+      "humidity": 68,
+      "dew_point": -1.86,
+      "uvi": 0.87,
+      "clouds": 35,
+      "visibility": 10000,
+      "wind_speed": 3.2,
+      "wind_deg": 299,
+      "wind_gust": 6,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "구름조금",
+          "icon": "03d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736838000,
+      "temp": 2.64,
+      "feels_like": -0.3,
+      "pressure": 1024,
+      "humidity": 63,
+      "dew_point": -3.7,
+      "uvi": 0.34,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.96,
+      "wind_deg": 292,
+      "wind_gust": 5.78,
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "온흐림",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736841600,
+      "temp": 1.96,
+      "feels_like": -0.63,
+      "pressure": 1025,
+      "humidity": 61,
+      "dew_point": -4.59,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.43,
+      "wind_deg": 288,
+      "wind_gust": 4.59,
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "온흐림",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736845200,
+      "temp": 1.54,
+      "feels_like": -0.79,
+      "pressure": 1025,
+      "humidity": 59,
+      "dew_point": -5.43,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.11,
+      "wind_deg": 294,
+      "wind_gust": 4.37,
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "온흐림",
+          "icon": "04n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736848800,
+      "temp": 1.24,
+      "feels_like": -1.61,
+      "pressure": 1025,
+      "humidity": 57,
+      "dew_point": -6.19,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 2.56,
+      "wind_deg": 307,
+      "wind_gust": 6.21,
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "온흐림",
+          "icon": "04n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736852400,
+      "temp": 0.44,
+      "feels_like": -3.57,
+      "pressure": 1026,
+      "humidity": 52,
+      "dew_point": -8.13,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 3.75,
+      "wind_deg": 324,
+      "wind_gust": 7.95,
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "온흐림",
+          "icon": "04n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736856000,
+      "temp": -0.45,
+      "feels_like": -4.31,
+      "pressure": 1026,
+      "humidity": 48,
+      "dew_point": -10.18,
+      "uvi": 0,
+      "clouds": 100,
+      "visibility": 10000,
+      "wind_speed": 3.31,
+      "wind_deg": 321,
+      "wind_gust": 8.12,
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "온흐림",
+          "icon": "04n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736859600,
+      "temp": -0.88,
+      "feels_like": -5.13,
+      "pressure": 1027,
+      "humidity": 47,
+      "dew_point": -10.75,
+      "uvi": 0,
+      "clouds": 96,
+      "visibility": 10000,
+      "wind_speed": 3.69,
+      "wind_deg": 319,
+      "wind_gust": 8.65,
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "온흐림",
+          "icon": "04n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736863200,
+      "temp": -1.16,
+      "feels_like": -5.66,
+      "pressure": 1028,
+      "humidity": 47,
+      "dew_point": -10.91,
+      "uvi": 0,
+      "clouds": 54,
+      "visibility": 10000,
+      "wind_speed": 3.94,
+      "wind_deg": 318,
+      "wind_gust": 8.96,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "튼구름",
+          "icon": "04n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736866800,
+      "temp": -1.22,
+      "feels_like": -5.7,
+      "pressure": 1028,
+      "humidity": 46,
+      "dew_point": -11.18,
+      "uvi": 0,
+      "clouds": 35,
+      "visibility": 10000,
+      "wind_speed": 3.89,
+      "wind_deg": 315,
+      "wind_gust": 9.11,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "구름조금",
+          "icon": "03n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736870400,
+      "temp": -1.38,
+      "feels_like": -6.3,
+      "pressure": 1028,
+      "humidity": 43,
+      "dew_point": -12.29,
+      "uvi": 0,
+      "clouds": 27,
+      "visibility": 10000,
+      "wind_speed": 4.46,
+      "wind_deg": 318,
+      "wind_gust": 9.41,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "구름조금",
+          "icon": "03n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736874000,
+      "temp": -1.93,
+      "feels_like": -7.56,
+      "pressure": 1028,
+      "humidity": 41,
+      "dew_point": -13.4,
+      "uvi": 0,
+      "clouds": 21,
+      "visibility": 10000,
+      "wind_speed": 5.39,
+      "wind_deg": 312,
+      "wind_gust": 9.54,
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "약간의 구름이 낀 하늘",
+          "icon": "02n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736877600,
+      "temp": -2.5,
+      "feels_like": -8.31,
+      "pressure": 1028,
+      "humidity": 38,
+      "dew_point": -14.8,
+      "uvi": 0,
+      "clouds": 17,
+      "visibility": 10000,
+      "wind_speed": 5.44,
+      "wind_deg": 314,
+      "wind_gust": 9.5,
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "약간의 구름이 낀 하늘",
+          "icon": "02n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736881200,
+      "temp": -2.85,
+      "feels_like": -8.77,
+      "pressure": 1028,
+      "humidity": 34,
+      "dew_point": -16.61,
+      "uvi": 0,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 5.48,
+      "wind_deg": 321,
+      "wind_gust": 10.5,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736884800,
+      "temp": -3.08,
+      "feels_like": -8.76,
+      "pressure": 1028,
+      "humidity": 33,
+      "dew_point": -17.21,
+      "uvi": 0,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 4.98,
+      "wind_deg": 325,
+      "wind_gust": 10.84,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736888400,
+      "temp": -3.29,
+      "feels_like": -9.09,
+      "pressure": 1028,
+      "humidity": 35,
+      "dew_point": -16.59,
+      "uvi": 0,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 5.1,
+      "wind_deg": 318,
+      "wind_gust": 10.96,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736892000,
+      "temp": -3.53,
+      "feels_like": -9.44,
+      "pressure": 1029,
+      "humidity": 38,
+      "dew_point": -15.87,
+      "uvi": 0,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 5.17,
+      "wind_deg": 317,
+      "wind_gust": 10.3,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736895600,
+      "temp": -3.89,
+      "feels_like": -9.72,
+      "pressure": 1029,
+      "humidity": 38,
+      "dew_point": -16,
+      "uvi": 0,
+      "clouds": 4,
+      "visibility": 10000,
+      "wind_speed": 4.9,
+      "wind_deg": 315,
+      "wind_gust": 9.66,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736899200,
+      "temp": -3.98,
+      "feels_like": -10.03,
+      "pressure": 1030,
+      "humidity": 36,
+      "dew_point": -17.03,
+      "uvi": 0.34,
+      "clouds": 3,
+      "visibility": 10000,
+      "wind_speed": 5.21,
+      "wind_deg": 317,
+      "wind_gust": 9.62,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736902800,
+      "temp": -3.7,
+      "feels_like": -9.83,
+      "pressure": 1031,
+      "humidity": 31,
+      "dew_point": -18.33,
+      "uvi": 0.85,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 5.46,
+      "wind_deg": 314,
+      "wind_gust": 9.21,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736906400,
+      "temp": -3.29,
+      "feels_like": -9.37,
+      "pressure": 1031,
+      "humidity": 27,
+      "dew_point": -19.86,
+      "uvi": 1.43,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 5.55,
+      "wind_deg": 312,
+      "wind_gust": 8.96,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736910000,
+      "temp": -3,
+      "feels_like": -8.97,
+      "pressure": 1030,
+      "humidity": 25,
+      "dew_point": -20.28,
+      "uvi": 1.81,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 5.49,
+      "wind_deg": 310,
+      "wind_gust": 8.64,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736913600,
+      "temp": -2.61,
+      "feels_like": -8.51,
+      "pressure": 1029,
+      "humidity": 25,
+      "dew_point": -19.97,
+      "uvi": 1.87,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 5.54,
+      "wind_deg": 309,
+      "wind_gust": 8.7,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736917200,
+      "temp": -2.3,
+      "feels_like": -8.07,
+      "pressure": 1029,
+      "humidity": 26,
+      "dew_point": -19.22,
+      "uvi": 1.52,
+      "clouds": 1,
+      "visibility": 10000,
+      "wind_speed": 5.46,
+      "wind_deg": 307,
+      "wind_gust": 8.38,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736920800,
+      "temp": -2.07,
+      "feels_like": -7.79,
+      "pressure": 1028,
+      "humidity": 28,
+      "dew_point": -18.24,
+      "uvi": 0.94,
+      "clouds": 1,
+      "visibility": 10000,
+      "wind_speed": 5.48,
+      "wind_deg": 305,
+      "wind_gust": 8.37,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736924400,
+      "temp": -1.96,
+      "feels_like": -7.48,
+      "pressure": 1028,
+      "humidity": 30,
+      "dew_point": -17.38,
+      "uvi": 0.4,
+      "clouds": 2,
+      "visibility": 10000,
+      "wind_speed": 5.18,
+      "wind_deg": 306,
+      "wind_gust": 8.13,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736928000,
+      "temp": -2.14,
+      "feels_like": -7.38,
+      "pressure": 1028,
+      "humidity": 31,
+      "dew_point": -16.91,
+      "uvi": 0,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 4.67,
+      "wind_deg": 308,
+      "wind_gust": 7.89,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736931600,
+      "temp": -2.49,
+      "feels_like": -7.6,
+      "pressure": 1029,
+      "humidity": 33,
+      "dew_point": -16.53,
+      "uvi": 0,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 4.35,
+      "wind_deg": 311,
+      "wind_gust": 7.76,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736935200,
+      "temp": -2.78,
+      "feels_like": -7.71,
+      "pressure": 1029,
+      "humidity": 35,
+      "dew_point": -16.12,
+      "uvi": 0,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 4.01,
+      "wind_deg": 317,
+      "wind_gust": 7.6,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736938800,
+      "temp": -2.96,
+      "feels_like": -7.85,
+      "pressure": 1029,
+      "humidity": 38,
+      "dew_point": -15.25,
+      "uvi": 0,
+      "clouds": 1,
+      "visibility": 10000,
+      "wind_speed": 3.91,
+      "wind_deg": 324,
+      "wind_gust": 7.71,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736942400,
+      "temp": -3.2,
+      "feels_like": -8.08,
+      "pressure": 1029,
+      "humidity": 41,
+      "dew_point": -14.59,
+      "uvi": 0,
+      "clouds": 5,
+      "visibility": 10000,
+      "wind_speed": 3.83,
+      "wind_deg": 324,
+      "wind_gust": 7.56,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736946000,
+      "temp": -3.56,
+      "feels_like": -8.23,
+      "pressure": 1030,
+      "humidity": 42,
+      "dew_point": -14.47,
+      "uvi": 0,
+      "clouds": 19,
+      "visibility": 10000,
+      "wind_speed": 3.48,
+      "wind_deg": 332,
+      "wind_gust": 7.88,
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "약간의 구름이 낀 하늘",
+          "icon": "02n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736949600,
+      "temp": -3.89,
+      "feels_like": -7.69,
+      "pressure": 1030,
+      "humidity": 42,
+      "dew_point": -14.87,
+      "uvi": 0,
+      "clouds": 8,
+      "visibility": 10000,
+      "wind_speed": 2.55,
+      "wind_deg": 337,
+      "wind_gust": 6.82,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736953200,
+      "temp": -3.93,
+      "feels_like": -6.83,
+      "pressure": 1029,
+      "humidity": 40,
+      "dew_point": -15.55,
+      "uvi": 0,
+      "clouds": 6,
+      "visibility": 10000,
+      "wind_speed": 1.86,
+      "wind_deg": 333,
+      "wind_gust": 5.27,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736956800,
+      "temp": -3.95,
+      "feels_like": -3.95,
+      "pressure": 1029,
+      "humidity": 40,
+      "dew_point": -15.62,
+      "uvi": 0,
+      "clouds": 6,
+      "visibility": 10000,
+      "wind_speed": 1.1,
+      "wind_deg": 330,
+      "wind_gust": 3.11,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736960400,
+      "temp": -3.8,
+      "feels_like": -3.8,
+      "pressure": 1028,
+      "humidity": 40,
+      "dew_point": -15.4,
+      "uvi": 0,
+      "clouds": 28,
+      "visibility": 10000,
+      "wind_speed": 0.52,
+      "wind_deg": 294,
+      "wind_gust": 1.58,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "구름조금",
+          "icon": "03n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736964000,
+      "temp": -3.81,
+      "feels_like": -3.81,
+      "pressure": 1028,
+      "humidity": 42,
+      "dew_point": -14.99,
+      "uvi": 0,
+      "clouds": 35,
+      "visibility": 10000,
+      "wind_speed": 0.19,
+      "wind_deg": 196,
+      "wind_gust": 0.71,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "구름조금",
+          "icon": "03n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736967600,
+      "temp": -3.85,
+      "feels_like": -3.85,
+      "pressure": 1027,
+      "humidity": 43,
+      "dew_point": -14.58,
+      "uvi": 0,
+      "clouds": 24,
+      "visibility": 10000,
+      "wind_speed": 0.46,
+      "wind_deg": 178,
+      "wind_gust": 0.72,
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "약간의 구름이 낀 하늘",
+          "icon": "02n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736971200,
+      "temp": -3.85,
+      "feels_like": -3.85,
+      "pressure": 1027,
+      "humidity": 45,
+      "dew_point": -14.05,
+      "uvi": 0,
+      "clouds": 41,
+      "visibility": 10000,
+      "wind_speed": 0.67,
+      "wind_deg": 152,
+      "wind_gust": 0.92,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "구름조금",
+          "icon": "03n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736974800,
+      "temp": -3.87,
+      "feels_like": -3.87,
+      "pressure": 1026,
+      "humidity": 48,
+      "dew_point": -13.44,
+      "uvi": 0,
+      "clouds": 49,
+      "visibility": 10000,
+      "wind_speed": 0.96,
+      "wind_deg": 146,
+      "wind_gust": 1.23,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "구름조금",
+          "icon": "03n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736978400,
+      "temp": -3.79,
+      "feels_like": -5.87,
+      "pressure": 1026,
+      "humidity": 51,
+      "dew_point": -12.5,
+      "uvi": 0,
+      "clouds": 58,
+      "visibility": 10000,
+      "wind_speed": 1.39,
+      "wind_deg": 149,
+      "wind_gust": 1.98,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "튼구름",
+          "icon": "04n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736982000,
+      "temp": -3.72,
+      "feels_like": -5.96,
+      "pressure": 1026,
+      "humidity": 58,
+      "dew_point": -10.96,
+      "uvi": 0,
+      "clouds": 63,
+      "visibility": 10000,
+      "wind_speed": 1.48,
+      "wind_deg": 149,
+      "wind_gust": 2.68,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "튼구름",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736985600,
+      "temp": -3.34,
+      "feels_like": -6.1,
+      "pressure": 1025,
+      "humidity": 64,
+      "dew_point": -9.23,
+      "uvi": 0.29,
+      "clouds": 66,
+      "visibility": 10000,
+      "wind_speed": 1.83,
+      "wind_deg": 154,
+      "wind_gust": 3.1,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "튼구름",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1736989200,
+      "temp": -2.6,
+      "feels_like": -5.69,
+      "pressure": 1026,
+      "humidity": 72,
+      "dew_point": -6.93,
+      "uvi": 0.65,
+      "clouds": 45,
+      "visibility": 10000,
+      "wind_speed": 2.16,
+      "wind_deg": 154,
+      "wind_gust": 2.83,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "구름조금",
+          "icon": "03d"
+        }
+      ],
+      "pop": 0.17
+    }
+  ],
+  "daily": [
+    {
+      "dt": 1736823600,
+      "sunrise": 1736808348,
+      "sunset": 1736843774,
+      "moonrise": 1736844420,
+      "moonset": 1736809920,
+      "moon_phase": 0.5,
+      "summary": "Expect a day of partly cloudy with snow",
+      "temp": {
+        "day": 3.38,
+        "min": -1.16,
+        "max": 3.57,
+        "night": -1.16,
+        "eve": 1.54,
+        "morn": 0.11
+      },
+      "feels_like": {
+        "day": 2.07,
+        "night": -5.66,
+        "eve": -0.79,
+        "morn": 0.11
+      },
+      "pressure": 1025,
+      "humidity": 85,
+      "dew_point": 1.1,
+      "wind_speed": 3.94,
+      "wind_deg": 318,
+      "wind_gust": 8.96,
+      "weather": [
+        {
+          "id": 600,
+          "main": "Snow",
+          "description": "가벼운 눈",
+          "icon": "13d"
+        }
+      ],
+      "clouds": 63,
+      "pop": 0.49,
+      "snow": 0.2,
+      "uvi": 1.9
+    },
+    {
+      "dt": 1736910000,
+      "sunrise": 1736894731,
+      "sunset": 1736930235,
+      "moonrise": 1736934960,
+      "moonset": 1736898660,
+      "moon_phase": 0.54,
+      "summary": "Expect a day of partly cloudy with clear spells",
+      "temp": {
+        "day": -3,
+        "min": -3.98,
+        "max": -1.22,
+        "night": -3.89,
+        "eve": -2.49,
+        "morn": -3.29
+      },
+      "feels_like": {
+        "day": -8.97,
+        "night": -7.69,
+        "eve": -7.6,
+        "morn": -9.09
+      },
+      "pressure": 1030,
+      "humidity": 25,
+      "dew_point": -20.28,
+      "wind_speed": 5.55,
+      "wind_deg": 312,
+      "wind_gust": 10.96,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "clouds": 0,
+      "pop": 0,
+      "uvi": 1.87
+    },
+    {
+      "dt": 1736996400,
+      "sunrise": 1736981111,
+      "sunset": 1737016696,
+      "moonrise": 1737025320,
+      "moonset": 1736986980,
+      "moon_phase": 0.57,
+      "summary": "Expect a day of partly cloudy with snow",
+      "temp": {
+        "day": -0.69,
+        "min": -3.95,
+        "max": 2.96,
+        "night": -1.61,
+        "eve": 1.48,
+        "morn": -3.87
+      },
+      "feels_like": {
+        "day": -2.85,
+        "night": -6.71,
+        "eve": -2.7,
+        "morn": -3.87
+      },
+      "pressure": 1025,
+      "humidity": 85,
+      "dew_point": -2.71,
+      "wind_speed": 6.16,
+      "wind_deg": 268,
+      "wind_gust": 11.68,
+      "weather": [
+        {
+          "id": 600,
+          "main": "Snow",
+          "description": "가벼운 눈",
+          "icon": "13d"
+        }
+      ],
+      "clouds": 64,
+      "pop": 0.98,
+      "snow": 0.8,
+      "uvi": 1.32
+    },
+    {
+      "dt": 1737082800,
+      "sunrise": 1737067490,
+      "sunset": 1737103158,
+      "moonrise": 1737115440,
+      "moonset": 1737075000,
+      "moon_phase": 0.61,
+      "summary": "There will be clear sky today",
+      "temp": {
+        "day": -1.24,
+        "min": -4.14,
+        "max": -0.22,
+        "night": -1.52,
+        "eve": -1.42,
+        "morn": -3.95
+      },
+      "feels_like": {
+        "day": -1.24,
+        "night": -1.52,
+        "eve": -1.42,
+        "morn": -6.73
+      },
+      "pressure": 1029,
+      "humidity": 30,
+      "dew_point": -16.55,
+      "wind_speed": 4.87,
+      "wind_deg": 322,
+      "wind_gust": 10.27,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "clouds": 0,
+      "pop": 0,
+      "uvi": 2.11
+    },
+    {
+      "dt": 1737169200,
+      "sunrise": 1737153867,
+      "sunset": 1737189621,
+      "moonrise": 1737205440,
+      "moonset": 1737162780,
+      "moon_phase": 0.64,
+      "summary": "There will be clear sky today",
+      "temp": {
+        "day": 0.81,
+        "min": -2.29,
+        "max": 1.78,
+        "night": -0.35,
+        "eve": -0.05,
+        "morn": -2.29
+      },
+      "feels_like": {
+        "day": 0.81,
+        "night": -0.35,
+        "eve": -0.05,
+        "morn": -2.29
+      },
+      "pressure": 1028,
+      "humidity": 23,
+      "dew_point": -17.96,
+      "wind_speed": 0.87,
+      "wind_deg": 305,
+      "wind_gust": 1.29,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "맑음",
+          "icon": "01d"
+        }
+      ],
+      "clouds": 0,
+      "pop": 0,
+      "uvi": 2.02
+    },
+    {
+      "dt": 1737255600,
+      "sunrise": 1737240242,
+      "sunset": 1737276085,
+      "moonrise": 1737295320,
+      "moonset": 1737250440,
+      "moon_phase": 0.67,
+      "summary": "There will be clear sky until morning, then partly cloudy",
+      "temp": {
+        "day": 2.11,
+        "min": -0.72,
+        "max": 3.06,
+        "night": 0.68,
+        "eve": 1.2,
+        "morn": -0.72
+      },
+      "feels_like": {
+        "day": 2.11,
+        "night": 0.68,
+        "eve": 1.2,
+        "morn": -0.72
+      },
+      "pressure": 1022,
+      "humidity": 53,
+      "dew_point": -6.26,
+      "wind_speed": 0.84,
+      "wind_deg": 49,
+      "wind_gust": 1.09,
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "온흐림",
+          "icon": "04d"
+        }
+      ],
+      "clouds": 100,
+      "pop": 0,
+      "uvi": 3
+    },
+    {
+      "dt": 1737342000,
+      "sunrise": 1737326615,
+      "sunset": 1737362549,
+      "moonrise": 1737385200,
+      "moonset": 1737338100,
+      "moon_phase": 0.7,
+      "summary": "There will be partly cloudy today",
+      "temp": {
+        "day": 3.35,
+        "min": 0.06,
+        "max": 5.11,
+        "night": 2.93,
+        "eve": 3.61,
+        "morn": 0.06
+      },
+      "feels_like": {
+        "day": 3.35,
+        "night": 2.93,
+        "eve": 3.61,
+        "morn": 0.06
+      },
+      "pressure": 1022,
+      "humidity": 61,
+      "dew_point": -3.42,
+      "wind_speed": 1.13,
+      "wind_deg": 105,
+      "wind_gust": 1.31,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "구름조금",
+          "icon": "03d"
+        }
+      ],
+      "clouds": 49,
+      "pop": 0,
+      "uvi": 3
+    },
+    {
+      "dt": 1737428400,
+      "sunrise": 1737412986,
+      "sunset": 1737449013,
+      "moonrise": 0,
+      "moonset": 1737425820,
+      "moon_phase": 0.73,
+      "summary": "There will be partly cloudy today",
+      "temp": {
+        "day": 4.29,
+        "min": 1.61,
+        "max": 6.21,
+        "night": 2.49,
+        "eve": 4.16,
+        "morn": 1.78
+      },
+      "feels_like": {
+        "day": 4.29,
+        "night": 2.49,
+        "eve": 2.51,
+        "morn": 1.78
+      },
+      "pressure": 1023,
+      "humidity": 60,
+      "dew_point": -2.69,
+      "wind_speed": 2.22,
+      "wind_deg": 241,
+      "wind_gust": 3.5,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "구름조금",
+          "icon": "03d"
+        }
+      ],
+      "clouds": 46,
+      "pop": 0,
+      "uvi": 3
+    }
+  ]
+}
